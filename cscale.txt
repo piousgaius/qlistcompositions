@@ -1,0 +1,9 @@
+clear; 
+0 md 60; vlm 100; 
+500 md 62; vlm 110; 
+500 md 64; vlm 120; 
+500 md 65; vlm 130; 
+500 md 67; vlm 140; 
+500 md 69; vlm 150; 
+500 md 71; vlm 160; 
+500 md 72; vlm 170; 
